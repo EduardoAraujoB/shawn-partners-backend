@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "ts-node-dev --respawn --transpileOnly src/server.ts",
     "build": "tsc",
-    "start": "tsc && node build/server.js"
+    "start": "tsc && node build/server.js",
+    "test": "jest"
   },
   "dependencies": {
     "axios": "^0.19.2",
