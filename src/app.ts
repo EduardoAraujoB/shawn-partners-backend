@@ -20,7 +20,7 @@ class App {
   }
 
   public routes(): void {
-    this.express.use(routes);
+    this.express.use('/api', routes);
   }
 }
 
