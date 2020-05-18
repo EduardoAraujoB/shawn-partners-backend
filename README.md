@@ -1,6 +1,6 @@
 # Overview
 
-The backend part of the fullstack challenge by shawn and partners
+The backend part of the fullstack challenge by shawn and partners, this repo was deployed into heroku https://shawn-partners-backend.herokuapp.com/ (please read the section about avaliable routes to understand how to use this API)
 
 ## Sumary
 
